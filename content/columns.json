@@ -1,0 +1,124 @@
+{
+  "series": { "ko": "라벨 실내악 라벨링 하기", "en": "Labeling Ravel’s Chamber Music" },
+  "editor": {
+    "ko": "에디터: 임원 (고잉홈프로젝트 Artistic Advisory, @wonsteinn)",
+    "en": "Editor: Won Lim (Artistic Advisory, Going Home Project, @wonsteinn)"
+  },
+  "columns": [
+    {
+      "no": 1,
+      "cover": "assets/cover-01.webp",
+      "kicker": { "ko": "80년간 잊혀졌다 세상에 등장한", "en": "Forgotten for 80 years, then rediscovered" },
+      "title": { "ko": "바이올린 소나타 1번 M.12", "en": "Violin Sonata No. 1, M. 12" },
+      "short": { "ko": "바이올린 소나타 1번", "en": "Violin Sonata No. 1" },
+      "work": "Violin Sonata No. 1, M. 12",
+      "performers": "Yeol Eum Son · Jaewon Kim",
+      "tracks": [
+        { "title": "Violin Sonata No. 1, M. 12", "youtube": "dF_LxLJ4v_w" }
+      ]
+    },
+    {
+      "no": 2,
+      "cover": "assets/cover-02.jpg",
+      "kicker": { "ko": "콰트렛도 라벨스럽게", "en": "A quartet, the Ravel way" },
+      "title": { "ko": "현악4중주 M.35", "en": "String Quartet, M. 35" },
+      "short": { "ko": "현악4중주", "en": "String Quartet" },
+      "work": "String Quartet, M. 35",
+      "performers": "Ayako Tanaka · Hungwei Huang · Svetlin Roussev · Woongwhee Moon",
+      "movements": true,
+      "tracks": [
+        { "title": "I. Allegro moderato – Très doux", "youtube": "2Lr3ok1n-38" },
+        { "title": "II. Assez vif – Très rythmé", "youtube": "LlGeBfQSuGg" },
+        { "title": "III. Très lent", "youtube": "XHO78Km-WwM" },
+        { "title": "IV. Vif et agité", "youtube": "NyU_bgpQrbc" }
+      ]
+    },
+    {
+      "no": 3,
+      "cover": "assets/cover-03.webp",
+      "kicker": { "ko": "사라질 뻔한 악기를 살린 단 한 곡", "en": "The one piece that kept an instrument alive" },
+      "title": { "ko": "하프와 플루트, 클라리넷과 현악4중주를 위한 서주와 알레그로 M.46", "en": "Introduction and Allegro for Harp, Flute, Clarinet and String Quartet, M. 46" },
+      "short": { "ko": "서주와 알레그로", "en": "Introduction and Allegro" },
+      "work": "Introduction and Allegro, M. 46",
+      "performers": "Lavinia Meijer · Sunghyun Cho · Innhyuck Cho · Hungwei Huang · Svetlin Roussev · Sooyoung Kim · Sein Lee",
+      "tracks": [
+        { "title": "Introduction and Allegro, M. 46", "youtube": "Ou6egHBXEEs" }
+      ],
+      "video": "bi4oU56ETDk"
+    },
+    {
+      "no": 4,
+      "cover": "assets/cover-04.webp",
+      "kicker": { "ko": "협주곡은 미완이지만 우리에게 트리오가 왔다", "en": "The concerto went unfinished, but we got a trio" },
+      "title": { "ko": "피아노 트리오 M.67", "en": "Piano Trio, M. 67" },
+      "short": { "ko": "피아노 트리오", "en": "Piano Trio" },
+      "work": "Piano Trio, M. 67",
+      "performers": "Yeol Eum Son · Doomin Kim · Svetlin Roussev",
+      "movements": true,
+      "tracks": [
+        { "title": "I. Modéré", "youtube": "jaYcvMuylPY" },
+        { "title": "II. Pantoum (Assez vif)", "youtube": "sirpzwfpwek" },
+        { "title": "III. Passacaille (Très large)", "youtube": "vfg_VGJ98vY" },
+        { "title": "IV. Final (Animé)", "youtube": "yLKf4R7bsio" }
+      ],
+      "video": "6142BM6sBoI"
+    },
+    {
+      "no": 5,
+      "cover": "assets/cover-05.webp",
+      "kicker": { "ko": "드뷔시를 추모하며 미완의 소나타를 잇다", "en": "In memory of Debussy, carrying on his unfinished sonatas" },
+      "title": { "ko": "바이올린과 첼로를 위한 소나타 M.73", "en": "Sonata for Violin and Cello, M. 73" },
+      "short": { "ko": "바이올린과 첼로를 위한 소나타", "en": "Sonata for Violin and Cello" },
+      "work": "Sonata for Violin and Cello, M. 73",
+      "performers": "Yeol Eum Son · Damin Kim · Woongwhee Moon",
+      "movements": true,
+      "tracks": [
+        { "title": "I. Allegro", "youtube": "3ki4fRqlTBs" },
+        { "title": "II. Très vif", "youtube": "R-2jPNB7trA" },
+        { "title": "III. Lent", "youtube": "xNMSM6X1axA" },
+        { "title": "IV. Vif, avec entrain", "youtube": "fuZuRDNrnWA" }
+      ]
+    },
+    {
+      "no": 6,
+      "cover": "assets/cover-06.webp",
+      "kicker": { "ko": "‘음악적 암호문’으로부터", "en": "From a musical cryptogram" },
+      "title": { "ko": "가브리엘 포레의 이름에 의한 자장가, M.74", "en": "Berceuse sur le nom de Gabriel Fauré, M. 74" },
+      "short": { "ko": "포레의 이름에 의한 자장가", "en": "Berceuse on the Name of Fauré" },
+      "work": "Berceuse sur le nom de Gabriel Fauré, M. 74",
+      "performers": "Yeol Eum Son · Svetlin Roussev",
+      "tracks": [
+        { "title": "Berceuse sur le nom de Gabriel Fauré, M. 74", "youtube": "DlWnnZ7rDzg" }
+      ]
+    },
+    {
+      "no": 7,
+      "cover": "assets/cover-07.webp",
+      "kicker": { "ko": "가보진 않았지만 흉내 낼 수 있어", "en": "Never been there, but I can imitate it" },
+      "title": { "ko": "바이올린과 피아노를 위한 연주회용 랩소디, 치간느 M.76", "en": "Tzigane, Concert Rhapsody for Violin and Piano, M. 76" },
+      "short": { "ko": "치간느", "en": "Tzigane" },
+      "work": "Tzigane, M. 76",
+      "performers": "Yeol Eum Son · Svetlin Roussev",
+      "tracks": [
+        { "title": "Tzigane, M. 76", "youtube": "CU2CAbq8V9A" }
+      ],
+      "video": "PHpw1bGg21k"
+    },
+    {
+      "no": 8,
+      "cover": "assets/cover-08.webp",
+      "kicker": { "ko": "재즈를 뭐라고 생각하세요", "en": "What do you think jazz is?" },
+      "title": { "ko": "바이올린 소나타 2번 사장조 M.77", "en": "Violin Sonata No. 2 in G major, M. 77" },
+      "short": { "ko": "바이올린 소나타 2번", "en": "Violin Sonata No. 2" },
+      "work": "Violin Sonata No. 2, M. 77",
+      "performers": "Yeol Eum Son · Svetlin Roussev",
+      "movements": true,
+      "tracks": [
+        { "title": "I. Allegretto", "youtube": "zdG6OGASJ2s" },
+        { "title": "II. Blues. Moderato", "youtube": "zNlaJ1hBp7U" },
+        { "title": "III. Perpetuum mobile. Allegro", "youtube": "0FB2HsGkLps" }
+      ],
+      "video": "9J73zmN6y1U"
+    }
+  ]
+}
