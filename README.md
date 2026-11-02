@@ -85,7 +85,7 @@ goinghome-archive/
 2. 저장소 첫 화면의 **uploading an existing file** 링크를 누르고, 이 폴더 **안의 내용 전체**(index.html, content, assets, README.md)를 끌어다 놓은 뒤 **Commit changes**를 누릅니다.
 3. **Vercel**에 로그인 → **Add New… → Project** → 방금 만든 저장소 옆 **Import** → 설정은 건드리지 않고 **Deploy**.
 4. 1분 정도 뒤 `https://goinghome-archive.vercel.app` 같은 주소가 생깁니다.
-5. 그 주소를 받으면 `index.html`의 `og:image` 줄을 전체 주소로 바꿔 줍니다. (예: `https://goinghome-archive.vercel.app/assets/og.jpg`) 그래야 카톡 미리보기 이미지가 확실히 뜹니다.
+5. 그 주소를 받으면 `index.html`의 `og:url`, `og:image` 줄에 그 주소를 넣습니다. (이 사이트는 이미 `https://goinghome-archive.vercel.app`으로 설정되어 있습니다. 나중에 주소가 바뀌면 이 두 줄도 바꿔 주세요.)
 
 이후에는 GitHub에서 파일을 고칠 때마다 Vercel이 **자동으로** 다시 올립니다.
 
